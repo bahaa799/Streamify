@@ -618,3 +618,13 @@ margin-left: 150px;
        
     }
 }
+
+@media (max-width: 768px) {
+    header {
+        padding: 10px 15px; 
+    }
+
+    .logo img {
+        max-height: 40px; 
+    }
+}
